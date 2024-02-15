@@ -1,0 +1,9 @@
+numpy
+pandas
+opencv-python
+imgaug
+tensorflow-gpu==2.5
+scikit-learn
+python-socketio==4.2.1
+eventlet
+flask
